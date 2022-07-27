@@ -1,0 +1,6 @@
+.env*
+__pycache__/
+.idea
+data
+export
+result.json
